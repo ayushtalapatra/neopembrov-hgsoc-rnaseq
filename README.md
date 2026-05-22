@@ -15,4 +15,4 @@ GEO Accession: GSE227666
 Python, PyDESeq2, GSEApy, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Author
-Ayush Talapatra — Independent research, 2026
+Ayush Talapatra - Independent research, 2026
